@@ -20,7 +20,7 @@ const Card = () => {
     <div className='grid gap-3 grid-cols-3'>
       {/* Primera imagen */}
       <div className='flex justify-center'>
-        <figure className='relative mb-2 w-1/2 h-110 rounded-lg cursor-pointer'>
+        <figure className='elative mb-2 w-1/2 h-110 rounded-lg cursor-pointer'>
           <img
             className='mx-auto w-full h-full object-cover rounded-lg'
             src='../img/menuuno.avif'
